@@ -8,11 +8,11 @@ Below you'll find the first few steps for making your computer a game developing
 
 ==*Step One*==
 
-Before you can begin developing your going to need a development environment. My program of choice is *Eclipse* (basically just a fancy text editor, but this is what I will be using for all of my future tutorials). Android has already provided a great download link one the page linked below.
+Before you can begin developing you're going to need a development environment. My program of choice is *Eclipse* (basically just a fancy text editor, but this is what I will be using for all of my future tutorials). Android has already provided a great download link on the page linked below.
 
 [http://developer.android.com/sdk/index.html ADT Eclipse]
 
-Great so now you have a Development Environment to start working on your apps! Now let's move into some more programs you will need for this specific engine.
+Great, so now you have a Development Environment to start working on your apps! Now let's move into some more programs you will need for this specific engine.
 
 ==*Step Two*==
 
